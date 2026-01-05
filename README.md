@@ -32,7 +32,7 @@ La teoria unifica principi topologico-entropici con il **principio olografico**,
 - `diagrammi/` : illustrazioni topologiche e olografiche
 - `note_evoluzione_cosmica.md`: appunti sull'unificazione
 
-DOI Zenodo (quando pubblicato): [inserisci qui]
+DOI Zenodo https://doi.org/10.5281/zenodo.18150631
 
 ## License
 Questo lavoro è rilasciato sotto **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
