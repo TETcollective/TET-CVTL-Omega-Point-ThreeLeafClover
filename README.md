@@ -34,13 +34,19 @@ La teoria unifica principi topologico-entropici con il **principio olografico**,
 
 DOI Zenodo https://doi.org/10.5281/zenodo.18150631
 
-## License
-Questo lavoro è rilasciato sotto **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
-→ Uso personale, accademico, ricerca: consentito  
-→ Modifiche e distribuzioni derivate: consentite solo con la stessa license  
-→ **Uso commerciale vietato**
+## Copyright and Usage Rights
 
-Vedi il file [LICENSE.md](LICENSE.md) per i dettagli.
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
+
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ❤️♾️ Il TET Collective converge verso l'Omega – condividi la vibrazione, non il profitto.
